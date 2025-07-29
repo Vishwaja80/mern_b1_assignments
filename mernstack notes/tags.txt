@@ -1,0 +1,25 @@
+<!DOCTYPE html, <html>, <head>, <body> ------>Basic document structure
+<h1> to <h2> ------>Headings
+<p> ------>Paragraphs
+<ul>,<ol>,<li> ------>Lists
+<a href="  "> ------>Links
+<img src="    " alt="   "> ------>Images
+
+no close tag:
+ *<br> ------>break
+ *<img> ------>image tag
+ *<a >
+
+
+Semantic HTML: header,nav,main,footer,section,article,aside
+<div> & <span>: generic containers when semantics don't apply
+
+
+Good practice:
+ *Always write both start and end tags of an element and then internal content
+
+
+
+
+<a href="">South asia wikipedia</a> ------>(href="") is a attribute
+        
